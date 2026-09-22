@@ -1,3 +1,5 @@
+![Subdomain-Takeover-Pro](sub.jpeg)
+
 # Subdomain Takeover Pro 🚨
 
 Find subdomain takeovers in seconds. One takeover = $500 to $10,000 bug bounty.
